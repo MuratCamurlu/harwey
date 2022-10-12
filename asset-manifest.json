@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harwey/static/css/main.4a51117d.css",
+    "main.js": "/harwey/static/js/main.d0d2d66c.js",
+    "static/js/787.e2fa8070.chunk.js": "/harwey/static/js/787.e2fa8070.chunk.js",
+    "index.html": "/harwey/index.html",
+    "main.4a51117d.css.map": "/harwey/static/css/main.4a51117d.css.map",
+    "main.d0d2d66c.js.map": "/harwey/static/js/main.d0d2d66c.js.map",
+    "787.e2fa8070.chunk.js.map": "/harwey/static/js/787.e2fa8070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a51117d.css",
+    "static/js/main.d0d2d66c.js"
+  ]
+}
